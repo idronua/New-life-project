@@ -1,0 +1,9 @@
+body {
+	background-color: #FFE773;
+}
+#header {
+	color: #3E0470;
+	text-align: center;
+	border: 3px;
+	margin: 15px;
+}
